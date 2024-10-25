@@ -1,0 +1,45 @@
+﻿progress_id;Уникальный идентификатор пользователя в приложении;Unique user identifier in the app
+action_date;Дата, когда пользователь взаимодействовал с приложением;Date when the user interacted with the app
+entry_date;Дата, когда пользователь впервые взаимодействовал с приложением.;Date when the user first interacted with the app
+sessions;Количество сессий пользователя в течении Action Date.;Number of user sessions during Action Date
+sessions_length;Общая длина сессий пользователя в течении Action Date (в секундах).;Total session length of the user during Action Date (in seconds)
+level;Уровень;Level
+spins_total;Количество всех совершенных спинов в Action Date.;Total number of spins performed during Action Date
+regular_spins;Количество обычных совершенных спинов в Action Date.;Number of regular spins performed during Action Date
+free_spins;Количество совершенных free спинов в Action Date.;Number of free spins performed during Action Date
+coins_start_day;Количество монет пользователя на момент начала первой сессии пользователя в Action Date.;Number of coins the user had at the beginning of their first session during Action Date
+coins_end_day;Количество монет пользователя на момент конца последней сессии пользователя в Action Date.;Number of coins the user had at the end of their last session during Action Date
+spend_coins;Количество потраченных монет пользователя в течении Action Date.;Number of coins spent by the user during Action Date
+gems_start_day;Количество гемов пользователя на момент начала первой сессии пользователя в Action Date.;Number of gems the user had at the beginning of their first session during Action Date
+gems_end_day;Количество гемов пользователя на момент конца последней сессии пользователя в Action Date.;Number of gems the user had at the end of their last session during Action Date
+spend_gems_slot;Количество потраченных гемов на слотах в течении Action Date.;Number of gems spent on slots during Action Date
+spend_gems_other;Количество потраченных гемов на других (кроме слотах действиях) в течении Action Date.;Number of gems spent on other actions (besides slots) during Action Date
+ups_start_day;Количество апов пользователя на момент начала первой сессии пользователя в Action Date.;Number of boosts the user had at the beginning of their first session during Action Date
+ups_end_day;Количество апов пользователя на момент конца последней сессии пользователя в Action Date.;Number of boosts the user had at the end of their last session during Action Date
+spend_ups;Количество потраченных апов в течении Action Date.;Number of boosts spent during Action Date
+hourly_bonus;Количество фактов сбора часового бонуса за игровой день по всем платформам.;Number of hourly bonus collection actions per gaming day across all platforms
+daily_bonus;Количество фактов сбора дневного бонуса за игровой день по всем платформам.;Number of daily bonus collection actions per gaming day across all platforms
+points_start_day;Количество поинтов пользователя на момент начала первой сессии пользователя в Action Date.;Number of points the user had at the beginning of their first session during Action Date
+points_end_day;Количество поинтов пользователя на момент конца последней сессии пользователя в Action Date.;Number of points the user had at the end of their last session during Action Date
+status_points_end_day;Статус поинтов пользователя на момент последней сессии;User point status at the time of the last session
+country_install;Страна установки;Installation country
+source;Маркетинговый партнер, который привел пользователя;Marketing partner that brought the user
+total_win_bg;Сумма выигранных монет в бонусных играх;Sum of coins won in bonus games
+total_win_fs;Сумма выигранных монет в фриспиновых играх;Sum of coins won in free spin games
+total_win;Общая сумма выигранных монет;Total sum of coins won
+max_bet;Максимальная ставка;Maximum bet
+total_win_jp;Сумма выигранных монет в джекпот играх;Sum of coins won in jackpot games
+cashback_spins;Сумма кешбека по спину;Cashback amount per spin
+win_jp_bet;Сумма выигрышных ставок для джекпотов;Sum of winning bets for jackpots
+jp_fix_mult;Сумма фиксированной части джекпота;Fixed part of the jackpot
+win_spins;Сумма выигранных монет для обычного спина;Sum of coins won for a regular spin
+win_bet_spins;Сумма выигрышных ставок для спина;Sum of winning bets per spin
+win_bet_bg;Сумма выигрышных ставок для бонусной игры;Sum of winning bets per bonus game
+win_bet_fs;Сумма выигрышных ставок для фриспина;Sum of winning bets per free spin
+winning_spins;Количество выигрышных спинов;Number of winning spins
+jp_count;Количество джекпот игр;Number of jackpot games
+bg_count;Количество бонусных игр;Number of bonus games
+fs_count;Количество фриспиновых игр;Number of free spin games
+freespins;Количество бесплатных спинов;Number of free spins
+sum_coins;Сумма полученных/потраченных монет;Sum of received/spent coins
+is_first_payment;Совершал ли пользователь первый платеж в течение 30 лайфтаймов;Whether the user made the first payment within 30 lifetimes
